@@ -1,6 +1,6 @@
-const prompt = require("prompt-sync")();
-let a = Number(prompt("Entrer a: "));
-let b = Number(prompt("Entrer b: "));
+let a = 8;
+let b = 2;
+
 console.log(`Les valeurs avant l'échange: a = ${a}, b = ${b}`);
 
 let tmp;
