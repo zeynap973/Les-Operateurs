@@ -9,6 +9,6 @@ let quotient = n1 / n2;
 
 console.log(`La somme est: ${somme}`);
 console.log(`La difference est: ${difference}`);
-console.log(`La produit est: ${produit}`);
+console.log(`Le produit est: ${produit}`);
 console.log(`La quotient est: ${quotient}`);
 
